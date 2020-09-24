@@ -1,4 +1,4 @@
-package com.learn.netty.server;
+package com.learn.netty.server.server;
 
 import com.learn.netty.server.initializer.HelloServerInitializer;
 import io.netty.bootstrap.ServerBootstrap;
