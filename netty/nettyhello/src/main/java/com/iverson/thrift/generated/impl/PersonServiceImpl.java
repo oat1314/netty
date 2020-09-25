@@ -28,7 +28,7 @@ public class PersonServiceImpl implements PersonService.Iface {
 
     @Override
     public void savePerson(Person person) throws DataException, TException {
-        System.out.println("Got client Param:");
+        System.out.println("Got client Param:" );
 
         System.out.println(person.getUsername());
         System.out.println(person.getAge());
